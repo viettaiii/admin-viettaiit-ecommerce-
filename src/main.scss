@@ -1,0 +1,10 @@
+.main-content {
+    display: flex;
+
+    .sidebar {
+        width: 250px;
+    }
+    .navbar {
+        flex:1;
+    }
+}
