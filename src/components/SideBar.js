@@ -85,7 +85,7 @@ function Sidebar() {
   };
   return (
     <div className="sidebar d-flex gap-2 flex-column">
-      <div className="logo text-center w-100 fs-3">Viet Tai</div>
+      <div className="logo text-center w-100 fs-3">Ecommerce</div>
       <div className="items">{createMenuSideBar(sidebarMenu)} </div>
     </div>
   );
